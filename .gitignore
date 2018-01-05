@@ -4,5 +4,4 @@ package-lock.json
 *.pem
 test/tests-browser.js
 browser/
-lib/
 flow-typed/
