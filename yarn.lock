@@ -2458,9 +2458,9 @@ lcid@^1.0.0:
   dependencies:
     invert-kv "^1.0.0"
 
-"ledger-node-js-hid@github:loeck/ledger-node-js-hid":
-  version ""
-  resolved "git+ssh://git@github.com/loeck/ledger-node-js-hid.git#3645f5891f7c6874202fd4c644c8abf9f59937dd"
+"ledger-node-js-hid@github:LedgerHQ/ledger-node-js-hid":
+  version "0.1.0"
+  resolved "https://codeload.github.com/LedgerHQ/ledger-node-js-hid/tar.gz/7a422b99f5305b23dd0da8ea17cefb99821aa5a4"
 
 levn@^0.3.0, levn@~0.3.0:
   version "0.3.0"
